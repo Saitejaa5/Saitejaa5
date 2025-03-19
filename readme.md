@@ -58,14 +58,14 @@
 ### 📊 GitHub Stats:
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomuningen2004&layout=donut&theme=dark&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejaa5&layout=donut&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=gomuningen2004&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saitejaa5&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gomuningen2004&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=saitejaa5&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
