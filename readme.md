@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sai Teja</h1>
-<h3 align="center">A Passionate Coder</h3>
+<h1>Hi 👋, I'm Sai Teja</h1>
+<h3>A Passionate Coder</h3>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BE00&center=true&width=435&lines=Data+Science+Enthusiast;Tech+Lover;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
@@ -11,13 +11,13 @@
 
 - 🎓 Pursuing **CSE with specialization in AI & ML**
 - 🌱 Currently exploring **Machine Learning, Web Dev & Backend**
-- 📫 Reach me at **saitejaa.ana5@gmail.com**
+- 📫 Reach me at **anasurisaiteja05@gmail.com**
 
 ---
 
 ## 📱 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/saitejaa5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -27,7 +27,7 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
@@ -46,15 +46,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=saitejaa5&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejaa5&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=saitejaa5&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
