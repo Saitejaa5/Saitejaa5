@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BE00&center=true&width=435&lines=Data+science+Enthusiast;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BE00&center=true&width=435&lines=AI+ML+Enthusiast;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
